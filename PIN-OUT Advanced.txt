@@ -1,0 +1,54 @@
+Arduino Pins
+
+/SDA-20
+ SCL-21
+ 3.3V
+  GND/
+
+/RX0-0
+ TX0-1
+ GND
+ 5V/
+
+/Analog A5
+ Analog A4
+ 5V
+ GND/
+
+/V-IN
+ GND/
+Digital Pins-46,48,50,52
+Reset
+PWM-2,3
+
+
+
+MultiWii Barometer
+3.3V
+SCL
+SDA
+GND
+
+Wireless
+EMpty
+RX
+TX
+5V
+Empty
+GND
+
+BMP085 Breakout
+SDA
+SCL
+empty
+empty
+GND
+3.3V
+
+Airspeed Sensor
+Analog A4
+5V
+GND
+
+
+

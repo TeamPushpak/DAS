@@ -1,0 +1,108 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 15/2/14 1:05:05 AM
+
+BeginCmp
+TimeStamp = /52FE6F00;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FE6FC2;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FE6FD0;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FE6FDE;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FE6DC5;
+Reference = K1;
+ValeurCmp = Airspeed;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FE6C05;
+Reference = K2;
+ValeurCmp = PowerIn;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FE6756;
+Reference = P1;
+ValeurCmp = MultiWii Baro;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FE68BF;
+Reference = P2;
+ValeurCmp = Telemetry;
+IdModule  = PIN_ARRAY-6X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FE6A50;
+Reference = P3;
+ValeurCmp = BMP085;
+IdModule  = PIN_ARRAY-6X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FE6F0F;
+Reference = R1;
+ValeurCmp = 220;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FE6FC8;
+Reference = R2;
+ValeurCmp = 220;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FE6FD6;
+Reference = R3;
+ValeurCmp = 220;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FE6FE4;
+Reference = R4;
+ValeurCmp = 220;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FE6158;
+Reference = SHIELD1;
+ValeurCmp = ARDUINO_MEGA_SHIELD;
+IdModule  = ARDUINO MEGA SHIELD;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FE716A;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = pcb_push_smd_52_52;
+EndCmp
+
+EndListe
